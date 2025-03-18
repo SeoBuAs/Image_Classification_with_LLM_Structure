@@ -1,1 +1,1 @@
-# Image_Classification_with_LLM
+# Image_Classification_with_LLM_Structure
