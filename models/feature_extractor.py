@@ -3,7 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torchvision import models
 
-
 #### Normal Extractor #############################################################################
 class CustomFeatureExtractor(nn.Module):
     def __init__(self, input_channels=3, output_dim=400):
